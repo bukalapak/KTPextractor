@@ -1,6 +1,6 @@
 # KTPextractor
 
-This is a service to extract data from KTP image. This is a part of open source project by Data Scientists of Bukalapak.
+This is a service to extract data from KTP image. This is a part of open source project by Data Scientists of Bukalapak. Other open source projects: https://github.com/bukalapak?q=data
 
 ### Config File
 Please fill in the configuration in file `kyc_config.py`
